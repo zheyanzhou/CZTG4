@@ -1,0 +1,8 @@
+/home/geant4/geant4_workspace/ingeoB11eventjinfo/build/CMakeFiles/install/strip.dir
+/home/geant4/geant4_workspace/ingeoB11eventjinfo/build/CMakeFiles/install/local.dir
+/home/geant4/geant4_workspace/ingeoB11eventjinfo/build/CMakeFiles/install.dir
+/home/geant4/geant4_workspace/ingeoB11eventjinfo/build/CMakeFiles/list_install_components.dir
+/home/geant4/geant4_workspace/ingeoB11eventjinfo/build/CMakeFiles/rebuild_cache.dir
+/home/geant4/geant4_workspace/ingeoB11eventjinfo/build/CMakeFiles/edit_cache.dir
+/home/geant4/geant4_workspace/ingeoB11eventjinfo/build/CMakeFiles/B1.dir
+/home/geant4/geant4_workspace/ingeoB11eventjinfo/build/CMakeFiles/exampleB1.dir

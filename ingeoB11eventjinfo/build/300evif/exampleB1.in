@@ -1,0 +1,10 @@
+# Macro file for example B1 test
+
+/run/initialize
+
+
+/gun/particle gamma
+/gun/energy 0.3 MeV
+/tracking/verbose 2
+#
+/run/beamOn 1000

@@ -1,0 +1,8 @@
+/home/geant4/geant4_workspace/3*3/build2/CMakeFiles/install/strip.dir
+/home/geant4/geant4_workspace/3*3/build2/CMakeFiles/install/local.dir
+/home/geant4/geant4_workspace/3*3/build2/CMakeFiles/install.dir
+/home/geant4/geant4_workspace/3*3/build2/CMakeFiles/list_install_components.dir
+/home/geant4/geant4_workspace/3*3/build2/CMakeFiles/rebuild_cache.dir
+/home/geant4/geant4_workspace/3*3/build2/CMakeFiles/edit_cache.dir
+/home/geant4/geant4_workspace/3*3/build2/CMakeFiles/B1.dir
+/home/geant4/geant4_workspace/3*3/build2/CMakeFiles/exampleB1.dir
